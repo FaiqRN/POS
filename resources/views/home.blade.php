@@ -25,7 +25,7 @@
                 <li><a href="{{ route('user.profile', ['id' => 1, 'name' => 'John']) }}"><i class="fas fa-user"></i> User</a></li>
             </ul>
         </nav>
-        <h1>Welcome to POS Website</h1>
+        <h1>Welcome to Point Of Sale Website</h1>
     </header>
     <main>
         <p>Start managing your sales efficiently with our Point of Sales Website.</p>
