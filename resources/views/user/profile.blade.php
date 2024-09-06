@@ -21,7 +21,7 @@
                 </div>
             </li>
             <li><a href="{{ route('sales.index') }}"><i class="fas fa-shopping-cart"></i> Sales</a></li>
-            <li><a href="{{ route('user.profile', ['id' => 1, 'name' => 'John']) }}"><i class="fas fa-user"></i> User</a></li>
+            <li><a href="{{ route('user.profile', ['id' => 1, 'name' => 'FaiqRN']) }}"><i class="fas fa-user"></i> User</a></li>
         </ul>
     </nav>
 
@@ -30,7 +30,7 @@
         <h1>User Profile</h1>
     </header>
     <main>
-        <p>Welcome!</p> <br>Faiq Ramzy Nabighah/12 SIB 3A </br> <br>2241760024</br ><br>Here is your profile information</br>
+        <p>Welcome!</p> <br>Faiq Ramzy Nabighah/12 SIB 3A</br> <br>2241760024</br ><br>Here is your profile information</br>
     </main>
     <script>
         function toggleDropdown() {

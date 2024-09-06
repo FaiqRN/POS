@@ -21,7 +21,7 @@
                 </div>
             </li>
             <li><a href="{{ route('sales.index') }}"><i class="fas fa-shopping-cart"></i> Sales</a></li>
-            <li><a href="{{ route('user.profile', ['id' => 1, 'name' => 'John']) }}"><i class="fas fa-user"></i> User</a></li>
+            <li><a href="{{ route('user.profile', ['id' => 1, 'name' => 'FaiqRN']) }}"><i class="fas fa-user"></i> User</a></li>
         </ul>
     </nav>
     <header>
